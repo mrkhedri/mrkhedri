@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrkhedri&show_icons=true&count_private=true&theme=nightowl" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkhedri&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mrkhedri&show_icons=true&count_private=true&theme=nightowl" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mrkhedri&theme=nightowl" />
 </div>
 
